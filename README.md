@@ -17,7 +17,7 @@ The dashboard includes:
 
 ## Dashboard Screenshot
 
-![Investment Portfolio & Market Performance Dashboard](./Screenshot%202026-09-09%20100132.png)
+<img width="405" height="393" alt="Screenshot 2026-09-09 100132" src="https://github.com/user-attachments/assets/b079905c-9c1d-4bc6-8628-f0a1b90c74fe" />
 
 ## Dashboard Preview
 
