@@ -23,9 +23,3 @@ The dashboard includes:
 
 The dashboard provides a consolidated view of investment performance and portfolio composition, helping users quickly understand key financial metrics and trends.
 
-## Technologies Used
-
-- Microsoft Power BI
-- Data Visualization
-- Investment & Portfolio Analysis
-- Financial Dashboard Design
